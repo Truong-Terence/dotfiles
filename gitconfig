@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tvn.terence@gmail.com
+	name = terence truong
